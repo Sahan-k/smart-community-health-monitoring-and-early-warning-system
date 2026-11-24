@@ -1,0 +1,39 @@
+﻿backend/venv/
+venv/
+.venv/
+node_modules/
+frontend/node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+dist/
+build/
+.vscode/
+
+# Logs
+*.log
+backend/postgres.log
+
+# Python virtual environments
+backend/venv/
+venv/
+.venv/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build files
+dist/
+build/
